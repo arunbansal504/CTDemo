@@ -95,12 +95,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-J50O6D8-releases</name>
-        <url>http://localhost:8081/artifactory/DemoProject</url>
+        <url>http://localhost:8081/artifactory/CTDemo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-J50O6D8-snapshots</name>
-        <url>http://localhost:8081/artifactory/DemoProject</url>
+        <url>http://localhost:8081/artifactory/CTDemo</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
