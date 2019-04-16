@@ -26,7 +26,6 @@
      
       <p> 
         <input type="submit" name="Submit" value="Submit"/>
-        <!input type="reset" name="Reset" value="Reset" />
       </p>
      </form>
      ${Output}
