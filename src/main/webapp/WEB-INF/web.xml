@@ -7,7 +7,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>CT</servlet-name>
-		<url-pattern>/PalindromeCheck</url-pattern>
+		<url-pattern>/CTDemo/PalindromeCheck</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>Index.jsp</welcome-file>
