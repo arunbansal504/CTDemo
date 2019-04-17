@@ -14,7 +14,7 @@ public class PalindromeServlet extends HttpServlet{
 		String Output = isPalindrome(input);
 		
 
-		req.setAttribute("Output", "<b>Result: </b>" +Output);
+		req.setAttribute("Output", "<b><i>Result: </i></b><i>" +Output+"</i>");
 		req.getRequestDispatcher("/Index.jsp").forward(req, res);
 	
 	}
