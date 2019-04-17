@@ -21,7 +21,7 @@ public class PalindromeServlet extends HttpServlet{
 	
 	public String isPalindrome (String input){
 		String Output;
-		if (input.length()==0) {
+		if (input.trim().length()==0) {
 			Output ="Input should not be null";
 		}
 		else if (input.equals(reverse(input))) {
