@@ -5,9 +5,10 @@
 <head>
 <title> Palindrome Checker </title>
 </head>
-    <body>
+    <body style="background-color:white;">
         <h1><i>Welcome to Palindrome Check Page</i></h1>
         <hr align ="left" width="37%">
+        <br><br>
         <form action = "PalindromeCheck" method ="Post">
       <table width="75%">
         <tr> 
@@ -17,6 +18,7 @@
           </td>
         </tr>
       </table>
+      <br>
       <p> 
         <input type="submit" name="Submit" value="Submit"/>
       </p>
