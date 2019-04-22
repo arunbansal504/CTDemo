@@ -13,7 +13,6 @@ public class PalindromeTest {
 	String input2 = "WILP";
 	String input3 = "";
 	PalindromeServlet app = new PalindromeServlet();
-
 	
 	@Test
 	public void isPlaindromeTest() {
