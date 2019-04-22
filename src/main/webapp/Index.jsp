@@ -12,7 +12,7 @@
         <form action = "PalindromeCheck" method ="Post">
       <table width="75%">
         <tr> 
-          <td width="10%"><b>Enter the Input Text for Demo</b></td>
+          <td width="10%"><b>Enter the Input Text for Demo:</b></td>
           <td width="52%">
             <input type="text" name="inputText" />
           </td>
