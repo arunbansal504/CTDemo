@@ -6,13 +6,13 @@
 <title> Palindrome Checker </title>
 </head>
     <body style="background-color:white;">
-        <h1><i>Welcome to Palindrome Check Page for demo</i></h1>
+        <h1><i>Welcome to Palindrome Check Page</i></h1>
         <hr align ="left" width="37%">
         <br><br>
         <form action = "PalindromeCheck" method ="Post">
       <table width="75%">
         <tr> 
-          <td width="10%"><b>Enter the Input Text</b></td>
+          <td width="10%"><b>Enter the Input Text for demo</b></td>
           <td width="52%">
             <input type="text" name="inputText" />
           </td>
