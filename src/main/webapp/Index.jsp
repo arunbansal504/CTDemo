@@ -6,7 +6,7 @@
 <title> Palindrome Checker </title>
 </head>
     <body style="background-color:white;">
-        <h1><i>Welcome to Palindrome Check Page</i></h1>
+        <h1><i>Welcome to Palindrome Check Page for demo</i></h1>
         <hr align ="left" width="37%">
         <br><br>
         <form action = "PalindromeCheck" method ="Post">
